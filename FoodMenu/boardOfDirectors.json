@@ -47,10 +47,87 @@
         "image" : "EnriqueHernandez"
     },
 
-    "John J. Mulligan" : {
-        "id" : "John J. Mulligan",
-        "name" : "John J. Mulligan",
-        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Mulligan also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Mulligan served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
-        "image" : "EnriqueHernandez"
+    "José E. Cil" : {
+        "id" : "José E. Cil",
+        "name" : "José E. Cil",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "josecil"
+    },
+    
+    "Alexandre Behring" : {
+        "id" : "Alexandre Behring",
+        "name" : "Alexandre Behring",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "alexandrebehring"
+    },
+    
+    "Daniel S. Schwartz" : {
+        "id" : "Daniel S. Schwartz",
+        "name" : "Daniel S. Schwartz",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "danielschwartz"
+    },
+    
+    "Paul J. Fribour" : {
+        "id" : "Paul J. Fribour",
+        "name" : "Paul J. Fribour",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "paulfribourg"
+    },
+    
+    "Mark King" : {
+        "id" : "Mark King",
+        "name" : "Mark King",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "markking"
+    },
+    
+    "Tanaya Domier" : {
+        "id" : "Tanaya Domier",
+        "name" : "Tanaya Domier",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "tanyadomier"
+    },
+    
+    "Lauren Hobart" : {
+        "id" : "Lauren Hobart",
+        "name" : "Lauren Hobart",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "laurenhobart"
+    },
+    
+    "Thomas C. Nelson" : {
+        "id" : "Thomas C. Nelson",
+        "name" : "Thomas C. Nelson",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "thomasnelson"
+    },
+    
+    "Andrew Cherng" : {
+        "id" : "Andrew Cherng",
+        "name" : "Andrew Cherng",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "andrewcherng"
+    },
+    
+    "Peggy Cherng" : {
+        "id" : "Peggy Cherng",
+        "name" : "Peggy Cherng",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "peggycherng"
+    },
+    
+    "Monte Baeir" : {
+        "id" : "Monte Baeir",
+        "name" : "Monte Baeir",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "montebaier"
+    },
+    
+    "Andrea Cherng" : {
+        "id" : "Andrea Cherng",
+        "name" : "Andrea Cherng",
+        "description" : "Executive Vice President and Chief Operating Officer of Target Corporation, a general merchandise retailer that operates in the U.S., since 2015. From 2012 to 2015, Mr. Mulligan served as Executive Vice President and Chief Financial Officer of Target. While continuing to act as CFO, Mr. Cil also served as Interim President and Chief Executive Officer of Target during 2014. Prior to that time, Mr. Cil served as Senior Vice President, Treasury, Accounting and Operations of Target from 2010 to 2012. Director since 2015.",
+        "image" : "andreacherng"
     }
 }

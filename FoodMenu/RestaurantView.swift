@@ -102,3 +102,55 @@ struct DirectorsView_Previews: PreviewProvider {
         RestaurantView(restaurant: restuanrant[0], boardOfDirectors: boardOfDirectors)
     }
 }
+
+
+//{
+//    "name" : "Burger King",
+//    "ceo" : "José Cil",
+//    "employees" : 20000,
+//    "category" : "Burgers and Fries",
+//    "website" : "www.bk.com",
+//    "description" : "hugjkghiou",
+//    "id" : 2,
+//    "imageName" : "burgerking",
+//    "bod" : [
+//        {
+//            "name" : "jose cil",
+//            "title" : "Ceo"
+//        }
+//    ]
+//},
+//
+//{
+//    "name" : "Taco Bell",
+//    "ceo" : "Mark King",
+//    "employees" : 40000,
+//    "category" : "Mexican-Inspired Food",
+//    "website" : "www.tacobell.com",
+//    "description" : "kndfosnadpfio",
+//    "id" : 3,
+//    "imageName" : "tacobell",
+//    "bod" : [
+//        {
+//            "name" : "Mark King",
+//            "title" : "Ceo"
+//        }
+//    ]
+//},
+//
+//{
+//    "name" : "Panda Express",
+//    "ceo" : "Andrew Cherng",
+//    "employees" : 39000,
+//    "category" : "American-Chinese cuisine",
+//    "website" : "www.pandarg.com",
+//    "description" : "jksdnisnafklsndhjlskhaiojfhp9ehwojdsaoipms;mnfojdsunfd",
+//    "id" : 4,
+//    "imageName" : "panda",
+//    "bod" : [
+//        {
+//            "name" : "Andrew Cherng",
+//            "title" : "Ceo"
+//        }
+//    ]
+//}

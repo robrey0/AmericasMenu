@@ -12,9 +12,20 @@ struct DirectorView: View {
     var body: some View {
         VStack {
             Image(director.imageName)
+                .resizable()
+                .scaledToFit()
+                
+            Spacer()
             Text(director.name)
+                .foregroundColor(.white)
+            
+            Spacer()
+            
             Text(director.description)
         }
+        
+        .padding()
+        .background(.green)
     }
 }
 
